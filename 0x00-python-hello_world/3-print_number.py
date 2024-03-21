@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-nnumber = 98
+number = 98
 print(f"{number:d} Battery street")
